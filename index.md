@@ -10,7 +10,7 @@ I take messy, real-world data and turn it into something clear — answers peopl
 
 ## About
 
-I work with **SQL, Python, Tableau, and Power BI**, and I'm Google Data Analytics certified — but the tools matter less than the questions. I tend to choose projects close to home, because those are the ones I care enough to get right.
+I work with **SQL, Python, Tableau, and Power BI** — but the tools matter less than the questions. I tend to choose projects close to home, because those are the ones I care enough to get right.
 
 ## Projects
 
