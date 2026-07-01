@@ -1,7 +1,7 @@
 ---
 layout: default
-[Home](/) · [Road Safety](/road-safety/) · [Tourism](/tourism/)
 ---
+[Home](/) · [Road Safety](/road-safety/) · [Tourism](/tourism/)
 
 # Hi, I'm Yiannis 👋
 
